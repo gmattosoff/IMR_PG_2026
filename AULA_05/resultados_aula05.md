@@ -16,3 +16,4 @@ EXERCÍCIO 4
 
 
 EXERCÍCIO 5
+<img width="1366" height="768" alt="Captura de tela de 2026-09-28 20-36-00" src="https://github.com/user-attachments/assets/e26b6240-5ebb-49eb-b7f8-47cb7472302e" />
