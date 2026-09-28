@@ -8,6 +8,8 @@ EXERCÍCIO 2
 
 
 EXERCÍCIO 3
+<img width="1366" height="768" alt="Captura de tela de 2026-09-28 20-30-30" src="https://github.com/user-attachments/assets/19d9422d-bf82-4471-aeb4-302a459d7c6f" />
+
 
 EXERCÍCIO 4
 
